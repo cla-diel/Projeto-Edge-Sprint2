@@ -25,7 +25,6 @@ Desenvolver um sistema embarcado que:
 * Arduino Uno R3
 * Display LCD 16x2 (HD44780)
 * Sensor Ultrassônico HC-SR04
-* Potenciômetro (controle de contraste do LCD)
 * Botão (início da medição)
 * LED verde (bom desempenho)
 * LED vermelho (baixo desempenho)
@@ -124,14 +123,6 @@ Devido à limitação do simulador:
 * Treinamento de atletas
 * Monitoramento de desempenho
 * Projetos educacionais em IoT e sistemas embarcados
-
----
-
-## 👨‍💻 Autores
-
-Projeto desenvolvido por alunos do 3º ano do Ensino Médio como parte da disciplina de:
-
-**Edge Computing & Computer Systems**
 
 ---
 
